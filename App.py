@@ -35,6 +35,6 @@ with st.form("my_form"):
 
     # st.write(f"You wrote {len(question)} characters.")
 
-    submitted = st.form_submit_button("Submit")
+    submitted = st.form_submit_button("Check !")
     if submitted:
         pass
